@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.enterpriseplc.templates.nodejs.smoke.test" version="1.0" width="320" height="480" start="index.html">
+<title>NodeJS Smoke Test App</title>
+<description>The Smoke Test is an application developed to demonstrate key parts of the FeedHenry server side functionality in Node.js. The app is made up of a number of tabs each of which demonstrates cloud call to some various Node.js functions.</description>
+<author name="" email="" url=""></author>
+<license></license>
+</widget>
